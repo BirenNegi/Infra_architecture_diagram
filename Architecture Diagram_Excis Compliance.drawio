@@ -382,12 +382,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KWP2mD-7PoeuMsAxgc6K" name="Page-3">
-    <mxGraphModel dx="2428" dy="1206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2207" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Nj7OJjNGP64IMUvn4anl-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=6;dashed=1;gradientColor=#F6F6FF;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="60" y="50" width="2460" height="1210" as="geometry" />
+        <mxCell id="ptjb8oRvDTn_93l_Zwrr-116" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="140" y="60" width="2320" height="1170" as="geometry" />
         </mxCell>
         <mxCell id="Nj7OJjNGP64IMUvn4anl-15" value="Proxmox 8.4.1 High availability cluster on OVH" style="fillColor=#ffffff;strokeColor=default;shadow=1;strokeWidth=2;rounded=1;absoluteArcSize=1;arcSize=2;dashed=1;dashPattern=8 8;rotation=0;labelBackgroundColor=none;gradientColor=#0066CC;align=center;horizontal=1;fontStyle=0;fontSize=22;verticalAlign=top;gradientDirection=south;" parent="1" vertex="1">
           <mxGeometry x="480" y="287" width="1840" height="440" as="geometry" />
@@ -514,10 +514,10 @@
           <mxGeometry x="2270" y="240" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nj7OJjNGP64IMUvn4anl-67" value="&lt;div style=&quot;font-size: 13px; font-weight: 700; text-align: left; text-wrap-mode: nowrap;&quot;&gt;UK – Erith&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 13px; font-weight: 700; text-align: left; text-wrap-mode: nowrap;&quot;&gt;Datacenter:- ERI1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;gradientColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="550" y="349" width="150" height="30" as="geometry" />
+          <mxGeometry x="564" y="350" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nj7OJjNGP64IMUvn4anl-68" value="&lt;div style=&quot;font-size: 13px; font-weight: 700; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;div&gt;FR - Gravelines&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;Datacenter:- GRA04&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;gradientColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="901.8" y="347" width="150" height="30" as="geometry" />
+          <mxGeometry x="903" y="347" width="160.8" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nj7OJjNGP64IMUvn4anl-70" value="&lt;div style=&quot;font-size: 13px; font-weight: 700; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;div&gt;FR - Roubaix&lt;/div&gt;&lt;div&gt;Datacenter:- RBX8&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;gradientColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1633.25" y="344" width="150" height="30" as="geometry" />
@@ -535,10 +535,10 @@
           <mxGeometry x="1620" y="341.25" width="24" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nj7OJjNGP64IMUvn4anl-79" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" parent="1" vertex="1">
-          <mxGeometry x="889.76" y="343.25" width="24" height="30" as="geometry" />
+          <mxGeometry x="891.76" y="346.25" width="24" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nj7OJjNGP64IMUvn4anl-80" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" parent="1" vertex="1">
-          <mxGeometry x="541.5" y="347" width="24" height="30" as="geometry" />
+          <mxGeometry x="552.5" y="347" width="24" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nj7OJjNGP64IMUvn4anl-81" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" parent="1" vertex="1">
           <mxGeometry x="1987" y="344" width="24" height="30" as="geometry" />
@@ -794,8 +794,8 @@
             <mxPoint x="718.56" y="811.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ptjb8oRvDTn_93l_Zwrr-114" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="50" width="2190" height="60" as="geometry" />
+        <mxCell id="ptjb8oRvDTn_93l_Zwrr-114" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Proxmox and Ceph Cluster |&amp;nbsp; Architecture Diagram | Excis Compliance&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="142" y="61" width="2316" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
